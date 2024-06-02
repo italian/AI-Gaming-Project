@@ -18,7 +18,7 @@ Neural Adventure is a simple yet engaging 2D platformer game that leverages mach
 - **TensorFlow:** A machine learning library used to train and implement AI models.
 - **NumPy:** A library for numerical computations in Python.
 
-<!-- ## Getting Started
+## Getting Started
 
 To get started with the project, follow these steps:
 
@@ -39,7 +39,7 @@ pip install pygame tensorflow numpy
 
 ```bash
 python main.py
-``` -->
+```
 
 ## Contributing
 
