@@ -2,7 +2,7 @@
 
 # AI Gaming Project: Neural Adventure
 
-Neural Adventure is a simple yet engaging 2D platformer game that leverages machine learning and artificial intelligence for dynamic gameplay. In this project, we explore the integration of AI to enhance game mechanics, enemy behaviors, and level design, creating an immersive and adaptive gaming experience.
+Neural Adventure is a simple yet engaging 2D platformer game that leverages machine learning and artificial intelligence for dynamic gameplay. In this project, I'm exploring the integration of AI to enhance game mechanics, enemy behaviors, and level design, creating an immersive and adaptive gaming experience.
 
 ## Features
 
